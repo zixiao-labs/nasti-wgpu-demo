@@ -4,6 +4,7 @@ This is a demo project showcasing the capabilities of WebGPU using the Nasti fra
 Run the project by following the instructions below:
 
 ```bash
+git clone https://github.com/zixiao-labs/nasti-wgpu-demo.git && cd nasti-wgpu-demo
 pnpm install
 pnpm dev
 ```
