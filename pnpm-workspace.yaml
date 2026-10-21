@@ -1,0 +1,5 @@
+allowBuilds:
+  '@vgpu/adapter-node': false
+  webgpu: false
+minimumReleaseAgeExclude:
+  - '@nasti-toolchain/nasti@2.7.0'

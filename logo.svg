@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Zixiao Laboratories outlined mark</title>
+  <g stroke-linecap="round" stroke-linejoin="round" stroke-width="20">
+    <path
+      stroke="#fcd34d"
+      d="M172.43 170.72 243.81 170.76 285.51 235 744.29 235.01 785.97 170.76 857.29 170.7 763.6 323.07 264.6 323.08Z"
+    />
+    <path
+      stroke="#8b5cf6"
+      d="M256.81 347.35H772.69L827.93 426.04 1013.98 426.09 953.44 508.26H762.54L1015.79 854H674.24L592.41 778.84 592.38 575.31 437.62 575.27V778.73L351.4 854.01 8.09 854 267.2 508.23 76.51 508.27 15.65 426.08 201.51 426.07Z"
+    />
+  </g>
+</svg>
