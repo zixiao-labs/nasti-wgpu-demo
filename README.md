@@ -3,7 +3,7 @@ This is a demo project showcasing the capabilities of WebGPU using the Nasti fra
 
 Run the project by following the instructions below:
 
-bash```
+```bash
 pnpm install
 pnpm dev
 ```
